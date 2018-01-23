@@ -45,3 +45,8 @@ h3#header {
   font-size: 30px;
 }
 
+#header a{
+  text-decoration: none;
+  color: #868e96;
+}
+
