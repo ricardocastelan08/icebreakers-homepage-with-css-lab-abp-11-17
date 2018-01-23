@@ -54,3 +54,6 @@ h3#header {
   text-decoration: underline;
 }
 
+main {
+  margin: 20px;
+}
